@@ -28,3 +28,5 @@
   pytest test.py
 
 The screenshot will be saved in the project directory.
+
+![Test running locally](recording.gif)
